@@ -21,6 +21,6 @@ This repository contains the code and resources for a research project focused o
 ---
 
 ## Results
-Accuracy: 98.6%
-Model: Stack Model outperforms the ToxIBTL deep learning model.
-Evaluation Metrics: Detailed performance metrics (F1-score, MCC, auROC, auPRC, and accuracy) are provided in the evaluation reports.
+**Accuracy:** 98.6%
+**Model:** Stack Model outperforms the ToxIBTL deep learning model.
+**Evaluation Metrics:** Detailed performance metrics (F1-score, MCC, auROC, auPRC, and accuracy) are provided in the evaluation reports.
